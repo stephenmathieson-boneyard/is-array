@@ -2,7 +2,7 @@
   "name": "is-array",
   "repo": "stephenmathieson/is-array",
   "description": "Array.isArray for legacy browsers",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "keywords": [ "array", "is-array", "legacy" ],
   "dependencies": {},
   "development": {
