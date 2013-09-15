@@ -1,0 +1,16 @@
+{
+  "name": "is-array",
+  "repo": "stephenmathieson/is-array",
+  "description": "Array.isArray for legacy browsers",
+  "version": "0.0.0",
+  "keywords": [ "array", "is-array", "legacy" ],
+  "dependencies": {},
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
